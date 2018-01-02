@@ -5,7 +5,10 @@ import styles from  './seed.css'
 
 class Seed extends React.Component {
     render () {
-        return <div className="yo">Grow seed of React, and harvest on this arable land~</div>
+        return <div className="yo">
+            Grow seed of React, and harvest on this arable land~
+            <i />
+        </div>
     }
 }
 

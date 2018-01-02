@@ -1,3 +1,16 @@
 .yo {
+    height: 40px;
+    line-height: 40px;
+    margin: 100px 0;
     color: #666;
+    text-align: center;
+}
+
+.yo i {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-left: 12px;
+    background-image: url('./leaf.png');
+    vertical-align: middle;
 }
