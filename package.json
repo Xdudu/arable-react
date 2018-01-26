@@ -5,7 +5,7 @@
   "author": "Xdudu",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server --port 9000"
+    "start": "webpack-dev-server -d --port 9000"
   },
   "dependencies": {
     "react": "^16.2.0",
